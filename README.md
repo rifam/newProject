@@ -8,8 +8,8 @@
  - Meu primeiro commit foi uma merda, estava testando criar um repositorio diretamente pelo code.
 
 
-#### Ideia 1 
-   ##### Back
+### Ideia 1 
+ #### Back
 
  - Fazer um Album de fotos simples, adicionando e removendo(MPV)
  - Após isso, posso conectar com um banco qlqr (um dia decido isso)
@@ -18,7 +18,7 @@
  - Album será privado para pessoas autenticadas com token cedido.
  - Criar sub albuns privados.
 
-   ###### Front
+ ### Front
 
  - Consumir com react, layout de 3/4 fotos por coluna, moldura polaroid
  - Carregamento infinito (MPV)
